@@ -161,7 +161,7 @@ composer require squizlabs/php_codesniffer --dev
 
 ### Run
 
-`./vendor/bin/cs`
+`./vendor/bin/phpcs`
 
 ### Ref
 
